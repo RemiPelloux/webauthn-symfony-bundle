@@ -1,5 +1,5 @@
 {
-    "name": "web-auth/webauthn-symfony-bundle",
+    "name": "remi-pelloux/webauthn-symfony-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "description": "FIDO2/Webauthn Security Bundle For Symfony",
@@ -7,8 +7,8 @@
     "homepage": "https://github.com/web-auth",
     "authors": [
         {
-            "name": "Florent Morselli",
-            "homepage": "https://github.com/Spomky"
+            "name": "RP",
+            "homepage": "https://github.com/RemiPelloux"
         },
         {
             "name": "All contributors",
